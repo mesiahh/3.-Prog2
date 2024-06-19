@@ -1,4 +1,4 @@
-Topics for Pre-Midterm
+# Topics for Pre-Midterm
 
 1.) One or Single Dimensional Array in C
   a.) Passing arrays to functions
