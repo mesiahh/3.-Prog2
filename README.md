@@ -1,14 +1,23 @@
 # Topics for Pre-Midterm
 
-1.) One or Single Dimensional Array in C
+* 1.) One or Single Dimensional Array in C
+  
   a.) Passing arrays to functions
+  
   b.) Dynamic Allocation and Deallocation
+  
       -malloc(), calloc(), realloc(), and free()
+  
   c.) Returning an array from a function
+  
       i.) Putting the number of elements in one of the index s.a index 0
+  
       ii) Putting a sentinel value after the last element of the array
+  
   d.) Arrays and Pointers
+  
       - Pointer Arithmetic (by compenent)
+  
   e.) memcpy() function
 
 
