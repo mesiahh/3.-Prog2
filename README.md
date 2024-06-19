@@ -18,7 +18,7 @@
   
       - Pointer Arithmetic (by compenent)
   
-  e.) memcpy() function
+    e.) memcpy() function
 
 
 2.) Characters amd Strings
@@ -56,7 +56,7 @@
   
             in its proper position in the outer loop
   
-  c.) Selection Sort
+    c.) Selection Sort
 
 
 
@@ -133,7 +133,8 @@ ADT Linked List (2 weeks)
   
       - Concept of structure padding (size of a structure)
 
-* Detailed Topics on Linked List
+
+# Detailed Topics on Linked List
   
 1.) Linked List
   
