@@ -1,43 +1,44 @@
-# Topics for Pre-Midterm
+## Topics for Pre-Midterm
 
-* 1.) One or Single Dimensional Array in C
+1.) One or Single Dimensional Array in C
   
-  a.) Passing arrays to functions
+    a.) Passing arrays to functions
   
-  b.) Dynamic Allocation and Deallocation
+    b.) Dynamic Allocation and Deallocation
   
       -malloc(), calloc(), realloc(), and free()
   
-  c.) Returning an array from a function
+    c.) Returning an array from a function
   
       i.) Putting the number of elements in one of the index s.a index 0
   
       ii) Putting a sentinel value after the last element of the array
   
-  d.) Arrays and Pointers
+    d.) Arrays and Pointers
   
       - Pointer Arithmetic (by compenent)
   
   e.) memcpy() function
 
 
-* 2.) Characters amd Strings
+2.) Characters amd Strings
   
-  a.) String functions: strlen(), strcmp, strcpy(), strcat(), and strrev(), [Optional: strtak]
+    a.) String functions: strlen(), strcmp, strcpy(), strcat(), and strrev(), [Optional: strtak]
   
-  b.) I/O String functions: scanf() and gets(), printf(), and puts()
+    b.) I/O String functions: scanf() and gets(), printf(), and puts()
 
-* 3.) Character and Ctype functions
+3.) Character and Ctype functions
   
-  a.) isalpha(), isdigit(), ispunct(), isspace(),
+    a.) isalpha(), isdigit(), ispunct(), isspace(),
 
-  b.) isupper() and islower()
+    b.) isupper() and islower()
   
-  c.) toupper() and tolower()
+    c.) toupper() and tolower()
 
 
-* 4.) Elementary Sorting Algorithms
-  a.) Bubble Sort
+4.) Elementary Sorting Algorithms
+
+    a.) Bubble Sort
   
       - variations:
   
@@ -45,7 +46,7 @@
   
         b.) Pushing lighter elements from the end to the beginning of the array
   
-  b.)Insertion Sort
+    b.)Insertion Sort
   
       - variations:
   
@@ -67,9 +68,9 @@
 
 
 
-# Topics for Midterm
+## Topics for Midterm
 
-* 1.) Structures and unions, enums
+1.) Structures and unions, enums
 
     a.) Definition of data types and declaration of variables
     
@@ -77,7 +78,7 @@
     
     c.) Using typedef keyword on struct, union, and enum
 
-* 2.) More on structures
+2.) More on structures
 
     a.) Pointers and structures
     
@@ -94,7 +95,7 @@
     d.) structure within structure
     
 
-* 3.) Applications of Structures
+3.) Applications of Structures
 
     a.) ADT Array List
     
@@ -120,22 +121,22 @@
 
 
 
-# Pre-final Topics
+## Pre-final Topics
 
-* ADT Linked List (2 weeks)
+ADT Linked List (2 weeks)
   
-* 1.) Data and address of next data
+1.) Data and address of next data
   
       - Operations(insert, delete, member, traversal)
 
-* 2.) Optional
+2.) Optional
   
       - Concept of structure padding (size of a structure)
 
 * Detailed Topics on Linked List
   
-* 1.) Linked List
-* 
+1.) Linked List
+  
     a.) Linked List implementation of ADT List
   
     b.) Self-reference structure
@@ -159,8 +160,9 @@
 
 
     
-# Final Topics
-* 1.) Files of structures
+## Final Topics
+
+1.) Files of structures
   
     a.) Definition of files
   
@@ -174,7 +176,7 @@
   
         - fseek() and rewind()
   
-* 2.) Multi-dimensional Arrays
+2.) Multi-dimensional Arrays
 
         
 
